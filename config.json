@@ -1,0 +1,9 @@
+{
+  "mode": 1,
+  "maxThreads": 3,
+  "staggerDelay": [3, 10],
+  "actionDelay": [3, 10],
+  "accountDelay": [30, 60],
+  "useRef": true,
+  "autoResetTime": "07:00"
+}
